@@ -1,8 +1,8 @@
 
-### LDA Collasped Gibbs Sampling python implementation
-# Requirements
+# LDA Collasped Gibbs Sampling python implementation
+## Requirements
 Run ```pip install -r requirements.txt```
-# Usage
+## Usage
 You can take a look of the Example Notebook.
 
 Initialization:
@@ -30,7 +30,7 @@ lda.get_topic_word(no_topic=8,num_word=15)
 
 This implementation is for Vietnamese dataset, you can customize the preprocessing stage for your language by changing details in utils.py
 
-# Contact
+## Contact
 You can contact me at hoangvietit15@gmail.com for any details or questions related to this project
 
 
