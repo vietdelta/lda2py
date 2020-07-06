@@ -1,5 +1,5 @@
 
-### 
+### LDA Collasped Gibbs Sampling python implementation
 # Requirements
 Run ```pip install -r requirements.txt```
 # Usage
